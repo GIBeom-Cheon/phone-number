@@ -1,0 +1,20 @@
+
+
+.list {
+  width: 100%;
+  position: relative;
+  overflow: scroll;
+  z-index: 50;
+  /* scrollbar-width: none; */
+  height: 550px;
+  -ms-overflow-style: none;
+  overflow-x: hidden;
+
+}
+/* .list ::-webkit-scrollbar {
+  display: none;
+} */
+
+.people {
+  color: white;
+}

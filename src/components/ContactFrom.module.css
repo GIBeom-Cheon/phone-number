@@ -1,0 +1,11 @@
+.form-label {
+  color: #fff;
+}
+
+.white {
+  color: #fff;
+  font-family: "Pacifico", cursive;
+}
+.pwhite::placeholder {
+  color: violet;
+}

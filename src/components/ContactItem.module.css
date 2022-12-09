@@ -1,0 +1,21 @@
+img {
+  width: 70px;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: 12px;
+  margin: 10px 0;
+  width: 90%;
+}
+
+.text {
+  padding: 16px 0 0 20px;
+}
+h5,
+p {
+  line-height: 1;
+  margin-bottom: 5px;
+  color: white;
+  font-weight: 700;
+}

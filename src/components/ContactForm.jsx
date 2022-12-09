@@ -34,7 +34,7 @@ const ContactForm = () => {
         <Form.Group  xs className="mb-3" controlId="formContact">
           <Form.Label className={style.white}>Phone Number</Form.Label>
           <Form.Control
-            type="password"
+            type="number"
             placeholder="Enter your phone number"
             onChange={(e) => setPhoneNumber(e.target.value)}
             value={phoneNumber}
